@@ -2,6 +2,8 @@
 
 An interactive AI assistant that helps you learn technical concepts through clear, beginner-friendly explanations. The assistant uses both OpenAI's GPT-4o-mini and Ollama's Llama 3.2 models to provide comprehensive answers to your technical questions.
 
+![Technical Learning Assistant Interface](tech_learning_assistant.png)
+
 ## Features
 
 - 🤔 Ask any technical question and get clear, step-by-step explanations
