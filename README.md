@@ -64,11 +64,3 @@ python app.py
 2. Ask for examples if needed
 3. Request clarification if the answer isn't clear
 4. Try both models to compare responses
-
-## Contributing
-
-Feel free to submit issues and enhancement requests!
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
